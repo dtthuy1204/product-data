@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "title": "Essence Mascara Lash Princess",
+    "price": 9.99,
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+    "rating": { "rate": 4.6, "count": 235 }
+  },
+  {
+    "id": 2,
+    "title": "Eyeshadow Palette with Mirror",
+    "price": 19.99,
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+    "rating": { "rate": 4.8, "count": 310 }
+  },
+  {
+    "id": 3,
+    "title": "Powder Canister",
+    "price": 14.99,
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+    "rating": { "rate": 4.7, "count": 198 }
+  },
+  {
+    "id": 4,
+    "title": "Red Lipstick",
+    "price": 12.99,
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
+    "rating": { "rate": 4.9, "count": 420 }
+  },
+  {
+    "id": 5,
+    "title": "Red Nail Polish",
+    "price": 8.99,
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp",
+    "rating": { "rate": 4.5, "count": 156 }
+  },
+  {
+    "id": 6,
+    "title": "Calvin Klein CK One",
+    "price": 49.99,
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp",
+    "rating": { "rate": 4.3, "count": 184 }
+  },
+  {
+    "id": 7,
+    "title": "Chanel Coco Noir Eau De",
+    "price": 129.99,
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp",
+    "rating": { "rate": 4.4, "count": 95 }
+  },
+  {
+    "id": 8,
+    "title": "Dior J'adore",
+    "price": 89.99,
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+    "rating": { "rate": 4.6, "count": 270 }
+  },
+  {
+    "id": 9,
+    "title": "Dolce Shine Eau de",
+    "price": 69.99,
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp",
+    "rating": { "rate": 4.9, "count": 320 }
+  },
+  {
+    "id": 10,
+    "title": "Gucci Bloom Eau de",
+    "price": 79.99,
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/2.webp",
+    "rating": { "rate": 4.7, "count": 210 }
+  },
+
+  {
+    "id": 11,
+    "title": "Rouge Allure Velvet",
+    "price": 49.9,
+    "description": "A limited-edition CHANEL ROUGE ALLURE VELVET lipstick from the Holiday 2025 collection, featuring two iconic shades — Rouge Vie and Abstrait — with a soft matte finish and elegant black-gold packaging.",
+    "category": "beauty",
+    "image": "https://www.chanel.com/images//t_one//w_0.40,h_0.40,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_1020/rouge-allure-velvet-luminous-matte-lip-colour-548-abstrait-0-12oz--packshot-default-151548-9570552807454.jpg",
+    "rating": { "rate": 4.5, "count": 83 }
+  },
+  {
+    "id": 12,
+    "title": "PNJ My First Diamond 14K White Gold Diamond Ring",
+    "price": 956.9,
+    "description": "A timeless PNJ creation crafted in 14K white gold, featuring a brilliant-cut diamond that radiates pure elegance. The 'My First Diamond' ring embodies sophistication and emotional value — a perfect symbol of love, success, or new beginnings.",
+    "category": "jewelry",
+    "image": "https://cdn.pnj.io/images/detailed/267/sp-gnddddw015398-nhan-kim-cuong-vang-trang-14k-pnj-my-first-diamond-1.png",
+    "rating": { "rate": 4.6, "count": 142 }
+  },
+  {
+    "id": 13,
+    "title": "Eyelet Lace Cami Top",
+    "price": 25.29,
+    "description": "A feminine and stylish eyelet lace cami top featuring delicate embroidery and a flattering fit. Perfect for pairing with skirts or jeans for a soft, romantic look.",
+    "category": "clothing",
+    "image": "https://coquettedolly.com/cdn/shop/files/03_5a8d517f-465e-460000c1b-300164230a6f_120x.jpg?v=1743152030",
+    "rating": { "rate": 4.9, "count": 387 }
+  },
+  {
+    "id": 14,
+    "title": "Monogram Moccasin in Lamb Leather",
+    "price": 590,
+    "description": "Luxurious Italian lamb leather moccasins featuring MCM’s iconic Visetos monogram print, leather laces, and a smooth leather sole — a modern, elegant twist on the classic design.",
+    "category": "shoes",
+    "image": "https://images.mcmworldwide.com/i/mcmworldwide/MESEAMM07CO035_01/monogram-moccasin-in-lamb-leather-cognac-35-it?$w1000$&fmt=auto&qlt=default",
+    "rating": { "rate": 4.7, "count": 289 }
+  },
+  {
+    "id": 15,
+    "title": "PNJSilver Handshake",
+    "price": 89.00,
+    "description": "A sleek and elegant PNJSilver sterling silver bracelet featuring a delicate handshake-inspired design with sparkling stones. Perfect for adding a touch of sophistication and modern charm to any outfit.",
+    "category": "jewelry",
+    "image": "https://cdn.pnj.io/images/detailed/264/sp-slxm00w060070-lac-tay-bac-dinh-da-pnjsilver-1.png",
+    "rating": { "rate": 4.8, "count": 215 }
+  },
+  {
+    "id": 16,
+    "title": "Chanel Chance Eau Splendide",
+    "price": 204.9,
+    "description": "Chanel Chance Eau Splendide is a captivating fruity-floral fragrance blending raspberry, rose, violet, and geranium with hints of mint, iris, cedar, and white musk — a radiant, elegant scent that leaves a lasting, enchanting impression.",
+    "category": "fragrances",
+    "image": "https://www.chanel.com/images//t_one///q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/chance-eau-splendide-limited-edition-eau-de-parfum-spray-3-4fl-oz--packshot-premium-136008-9578061070366.jpg",
+    "rating": { "rate": 4.6, "count": 178 }
+  },
+  {
+    "id": 17,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 4.4, "count": 154 }
+  },
+  {
+    "id": 18,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 4.5, "count": 203 }
+  },
+  {
+    "id": 19,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 4.8, "count": 192 }
+  },
+  {
+    "id": 20,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 4.7, "count": 266 }
+  },
+  {
+    "id": 21,
+    "title": "Visetos Slide Sandals",
+    "price": 350,
+    "description": "Elegant women’s slide sandals featuring MCM’s iconic Visetos monogram canvas upper and a 3D Laurel EVA sole — blending luxury design with everyday comfort and style.",
+    "category": "shoes",
+    "image": "https://images.mcmworldwide.com/i/mcmworldwide/MESFSMM12PZ036_01/visetos-slide-sandals-soft-pink-36-it?$w1000$&fmt=auto&qlt=default",
+    "rating": { "rate": 4.9, "count": 312 }
+  },
+  {
+    "id": 22,
+    "title": "Sandals in Lauretos Raffia Jacquard",
+    "price": 530,
+    "description": "Chic raffia jacquard sandals crafted from Italian textile with calfskin leather trim and gold-tone Bavarian diamond buckles. Finished with a logo-embossed leather footbed for a touch of luxury and comfort.",
+    "category": "shoes",
+    "image": "https://images.mcmworldwide.com/i/mcmworldwide/MESFSMM07IN036_01/sandals-in-lauretos-raffia-jacquard-natural-36-it?$w1000$&fmt=auto&qlt=default",
+    "rating": { "rate": 4.5, "count": 176 }
+  },
+  {
+    "id": 23,
+    "title": "Skywander Lo Sneakers in Lauretos Jacquard",
+    "price": 590,
+    "description": "Luxurious Italian jacquard low-top sneakers featuring MCM’s Lauretos monogram, calfskin leather trim, and a 3D Laurel rubber outsole — blending heritage craftsmanship with modern streetwear elegance.",
+    "category": "shoes",
+    "image": "https://images.mcmworldwide.com/i/mcmworldwide/MESFSAH01PV036_01/skywander-lo-sneakers-in-lauretos-jacquard-pink-blush-36-it?$w1000$&fmt=auto&qlt=default",
+    "rating": { "rate": 4.6, "count": 221 }
+  },
+  {
+    "id": 24,
+    "title": "Moccasin in Metallic Calf Leather",
+    "price": 530,
+    "description": "Contemporary metallic calfskin leather moccasins crafted in Italy, featuring a unique distressed finish, decorative leather laces, and a smooth leather sole — a bold, modern take on timeless elegance.",
+    "category": "shoes",
+    "image": "https://images.mcmworldwide.com/i/mcmworldwide/MESEAMM11SV037_01/moccasin-in-metallic-calf-leather-silver-37-it?$w1000$&fmt=auto&qlt=default",
+    "rating": { "rate": 4.8, "count": 298 }
+  },
+  {
+    "id": 25,
+    "title": "Blazer With Belt",
+    "price": 45.5,
+    "description": "A woven blazer with a stand-up neck and a diagonal landing front body with a thin waist belt. Padded shoulders, long sleeves with slits at the wrists and a bag before the incision.",
+    "category": "clothing",
+    "image": "https://image.hm.com/assets/hm/91/1f/911f36571b21a8eabae10e76cfe7e4caa5b7ce94.jpg?imwidth=1260",
+    "rating": { "rate": 4.7, "count": 180 }
+  },
+  {
+    "id": 26,
+    "title": "Cotton skirt embroidered with lace",
+    "price": 43.3,
+    "description": "The calf-length skirt is made of woven cotton embroidered with perforated lace and scallop bears. Elastic waistband with drawstring.",
+    "category": "clothing",
+    "image": "https://image.hm.com/assets/hm/5e/28/5e28fc969b399f02a17321e5d90f79ec4df115d6.jpg?imwidth=1260",
+    "rating": { "rate": 4.6, "count": 202 }
+  },
+  {
+    "id": 27,
+    "title": "Denim Skirts",
+    "price": 26.5,
+    "description": "Short skirt in hard cotton denim with a collar, button-down brace and short sleeves. It has an A-shape with exposed seams at the front and back.",
+    "category": "clothing",
+    "image": "https://image.hm.com/assets/hm/1f/f8/1ff87983e2c7a83e6bb198227b77f25061406d25.jpg?imwidth=2160",
+    "rating": { "rate": 4.8, "count": 332 }
+  },
+  {
+    "id": 28,
+    "title": "Pleated two-strap skirt",
+    "price": 18.9,
+    "description": "The wrinkled jersey calf-length skirt features a pleated top, a square neckline, and adjustable pasta-style shoulder straps. Shrugged seams at the waist and skirt are plentiful.",
+    "category": "clothing",
+    "image": "https://image.hm.com/assets/hm/5d/1d/5d1d4716af593c6ede59dbec1a0486ee304768fe.jpg?imwidth=1260",
+    "rating": { "rate": 4.9, "count": 410 }
+  },
+  {
+    "id": 29,
+    "title": "Trench jacket",
+    "price": 49.3,
+    "description": "A woven trench coat with a stand-up collar that ruffles at the back. Buttons along the front torso, hand warming bag with hemming and belt tied at the hips. Delayed shoulders and long arms with adjustable belts and buttons at the wrists. There is a lining. There are both regular and macramé tie belts, offering a variety of versatile combination options.",
+    "category": "clothing",
+    "image": "https://image.hm.com/assets/hm/26/30/2630f82253e594523724d40e26382246eb94f48e.jpg?imwidth=1260",
+    "rating": { "rate": 4.6, "count": 241 }
+  },
+  {
+    "id": 30,
+    "title": "Lace-up chiffon style shirt",
+    "price": 18.9,
+    "description": "The see-through chiffon style shirt has a bow tie collar and an open V at the front. Shoulder shredded sewing and balloon long sleeves with buttoned cufflinks. No lining.",
+    "category": "clothing",
+    "image": "https://image.hm.com/assets/hm/e1/4f/e14faa9bac9abefcd35b813cee37ee97fb81acb6.jpg?imwidth=1260",
+    "rating": { "rate": 4.7, "count": 159 }
+  },
+  {
+    "id": 31,
+    "title": "Bouclé jacket",
+    "price": 37.9,
+    "description": "Short jacket in a bouclé weave detailed with accent-colour trims. Features a V-neck, knot-look buttons down the front and welt front pockets. Lined.",
+    "category": "clothing",
+    "image": "https://image.hm.com/assets/hm/a3/df/a3df6e57fb16bc41c4e1519154f270d778dec9fc.jpg?imwidth=1260",
+    "rating": { "rate": 4.7, "count": 159 }
+  }
+  
+]
